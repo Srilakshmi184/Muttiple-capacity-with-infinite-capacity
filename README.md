@@ -64,7 +64,8 @@ print("--------------------------------------------------------------")
 ```
 
 ## Output :
-![image](https://github.com/user-attachments/assets/75dacffe-2859-472d-b8e2-b3fd89777cf3)
+![image](https://github.com/user-attachments/assets/33ae548d-b072-48a3-802c-9e629ca5d5b3)
+
 
 
 ## Result : 
