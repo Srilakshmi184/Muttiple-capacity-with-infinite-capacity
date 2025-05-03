@@ -19,10 +19,17 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 ## Experiment:
 
+![image](https://github.com/user-attachments/assets/d0a40b1d-32de-453d-944e-930f31c7b25a)
+![image](https://github.com/user-attachments/assets/278f6909-5fc0-42ab-8ce4-1ca6bd61d7f5)
+
+
 
 ## Program
 
 ```c
+Developed by : SRILAKSHMI BH
+Register number : 212224100057
+
 import math
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time=float(input("Enter the mean  inter service time of Lathe Machine (in secs) :  "))
@@ -57,6 +64,7 @@ print("--------------------------------------------------------------")
 ```
 
 ## Output :
+![image](https://github.com/user-attachments/assets/75dacffe-2859-472d-b8e2-b3fd89777cf3)
 
 
 ## Result : 
